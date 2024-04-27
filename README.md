@@ -1,7 +1,7 @@
 This repository contains the report and the code for my bachelor's final project (worth 3 ECTS). 
 The report (pdf file) is meant to be shared while the code is just the implementation of the algorithms presented in the paper;
 
-// Abstract
+## Abstract
 
 In this bachelor's final project, we begin by providing some background on Random Measures, with a focus on Poisson Point Processes, Completely Random Measures, and Gamma Processes. Then, the Poisson-Gamma Random Measure, a shot noise Cox process, is introduced and theorems for its simulation are presented. Additionally, we offer illustrative examples along with numerical methodologies to facilitate implementation. 
 
