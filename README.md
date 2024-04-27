@@ -1,3 +1,4 @@
+# Bayesian inference on Poisson-Gamma radom measures for spatial statistics
 This repository contains the report and the code for my bachelor's final project (worth 3 ECTS). 
 The report (pdf file) is meant to be shared while the code is just the implementation of the algorithms presented in the paper;
 
