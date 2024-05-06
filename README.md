@@ -1,6 +1,7 @@
 # Bayesian inference on Poisson-Gamma random measures for spatial statistics
 This repository contains the report and the code for my bachelor's final project (worth 3 ECTS). 
-The report (pdf file) is meant to be shared while the code, which is just the implementation of the algorithms presented in the paper, is not commented nor optimized.
+
+The report (pdf file) is meant to be shared while the code, which is just the implementation of the algorithms presented in the paper, is not commented nor optimized as the focus of the project was on the development of the algorithm (see abstract) presented in the report. 
 
 ## Abstract
 
