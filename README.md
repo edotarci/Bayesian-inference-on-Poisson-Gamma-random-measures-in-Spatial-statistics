@@ -1,5 +1,5 @@
 # Bayesian inference on Poisson-Gamma random measures for spatial statistics
-This repository contains the report (now available as a final draft) and the code for my bachelor's final project (worth 3 ECTS). 
+This repository contains the report (Thesis.Visconti.pdf) and the code for my bachelor's final project (worth 3 ECTS). 
 
 The report (pdf file) is meant to be shared while the code (the implementation of the algorithms presented in the paper) is not commented nor optimized yet, as the focus of the project was on the development of the Metropolis-within-Gibbs algorithm (see abstract) presented in the report. 
 
